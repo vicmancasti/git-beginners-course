@@ -1,4 +1,4 @@
 Welcome to MyProject!
 
-Author: Victor
+Author: Victor Manuel
 Twitter: @vicmancas
