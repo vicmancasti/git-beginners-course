@@ -1,4 +1,4 @@
 Welcome to MyProject!
 
-Author: Victor
+Author: Victor Castillo
 Twitter: @vicmancas
